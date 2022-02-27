@@ -1,12 +1,22 @@
 {
     "fr": {
         "translations": {
-            "default.name": "Loan CLERIS"
+            "default.name": "Loan CLERIS",
+            "default.navbar.1": "Acceuil",
+            "default.navbar.2": "A propos",
+            "default.navbar.3": "Parours",
+            "default.navbar.4": "Compétences",
+            "default.navbar.5": "Contact"
         }
     },
     "eng": {
         "translations": {
-            "default.name": "Loan CLERIS"
+            "default.name": "Loan CLERIS",
+            "default.navbar.1": "Home",
+            "default.navbar.2": "About",
+            "default.navbar.3": "My experiences",
+            "default.navbar.4": "Skills",
+            "default.navbar.5": "Contact"
         }
     }
 }
